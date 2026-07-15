@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fahim-cs
 - 👀 I’m interested in Programming
-- 🌱 I’m currently doing some Projects on HTML.
+- 🌱 I’m currently doing some Projects on HTML,CSS,JS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mahadihasanfahim796@gmail.com
 - 😄 Pronouns: ...
